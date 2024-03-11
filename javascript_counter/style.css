@@ -1,0 +1,14 @@
+.counter {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#count {
+  font-size: 48px;
+}
+
+#countButton {
+  font-size: 24px;
+  margin-top: 20px;
+  cursor: pointer;
+}
