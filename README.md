@@ -13,3 +13,7 @@
 2. **useEffect를 이용한 진급게임**  // 2024-03-11
  - 리액트의 useEffect를 사용하는 간단한 예제 풀이를 해보았습니다
  - ( 티스토리 포스팅 -  https://onest1.tistory.com/16 ) 
+
+3. **useRef 예제풀이**  // 2024-03-11
+ - 리액트의 useRef를 사용하는 간단한 예제 풀이를 해보았습니다
+ - ( 티스토리 포스팅 -  https://onest1.tistory.com/17 ) 
