@@ -14,6 +14,10 @@
  - 리액트의 useEffect를 사용하는 간단한 예제 풀이를 해보았습니다
  - ( 티스토리 포스팅 -  https://onest1.tistory.com/16 ) 
 
-3. **useRef 예제풀이**  // 2024-03-11
+3. **useRef 예제풀이**  // 2024-03-14
  - 리액트의 useRef를 사용하는 간단한 예제 풀이를 해보았습니다
- - ( 티스토리 포스팅 -  https://onest1.tistory.com/17 ) 
+ - ( 티스토리 포스팅 -  https://onest1.tistory.com/17 )
+
+3. **props 예제풀이**  // 2024-03-15
+ - 리액트의 props를 사용하는 간단한 예제 풀이를 해보았습니다
+ - ( 티스토리 포스팅 -  https://onest1.tistory.com/19 ) 
